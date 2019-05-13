@@ -1,0 +1,35 @@
+<resources>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="app_name">Cyxtera Login Test</string>
+    <string name="text_accounts">Cuentas</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirme Contraseña</string>
+    <string name="text_login">Ingrese</string>
+    <string name="text_register">Registro</string>
+    <string name="error_message_name">Ingrese Nombre</string>
+    <string name="error_message_email">Ingrese Correo Correcto</string>
+    <string name="error_message_age">Ingrese Edad</string>
+    <string name="error_message_password">Ingrese Contraseña</string>
+    <string name="success_message">Regristro Completo</string>
+    <string name="text_not_member">No tiene cuenta? Cree una</string>
+    <string name="text_already_member">Ya eres miembro? Login</string>
+    <string name="error_email_exists">Correo ya existe</string>
+    <string name="error_password_match">Contraseña no coincide</string>
+    <string name="error_valid_email_password">Usuario o contraseña errado</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="text_hello">Hola,</string>
+    <string name="text_title">Cyxtera Login Test</string>
+</resources>
